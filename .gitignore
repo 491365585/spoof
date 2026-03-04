@@ -1,0 +1,6 @@
+system_props.log
+serial_spoof.log
+serial.txt
+.DS_Store
+*.swp
+*.log

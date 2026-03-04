@@ -1,0 +1,6 @@
+id=serial_spoof
+name=Serial Number Spoof
+version=v1.0
+versionCode=1
+author=syc
+description=Spoof device serial number using resetprop. Config: /data/adb/modules/serial_spoof/serial.txt
